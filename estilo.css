@@ -1,7 +1,7 @@
 /* Estrutura do site
 -------------------------------- */
 body {
-    background: #f4f2ec url(img/fundo.png) repeat-x;
+    background: #f4f2ec url(../img/fundo.png) repeat-x;
     font: 12px "Lucida Grande", "Lucida Sans Unicode", Arial, sans-serif;
 }
 
@@ -30,7 +30,7 @@ a:hover {
     height: 21px;
     text-indent: -9999px;
     display: block;
-    background: url(img/logo.png) no-repeat;
+    background: url(../img/logo.png) no-repeat;
 }
 
 header {
@@ -88,7 +88,7 @@ section#galeria {
 
 section#galeria a {
     display: block;
-    background: url(img/fundo-foto.png) no-repeat;
+    background: url(../img/fundo-foto.png) no-repeat;
     float: left;
     padding: 17px 15px 17px 15px;
     margin: 10px 0 0 20px;
